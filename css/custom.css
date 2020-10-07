@@ -1,0 +1,48 @@
+body {
+    background-color: #373737;
+}
+
+bg-light{
+    background-color: #ccc;
+
+}
+
+.col-lg-4 h3{
+    background-color: #303030;
+    margin-top: 25px;
+    text-align: center;
+   }
+
+   .col-lg-4 {
+       color: #fff;
+   }
+
+   .col-lg-4 p {
+       text-align: justify;
+   }
+
+   footer{
+       color: #fff;
+       box-shadow: 0px 10px 50px #ccc;
+   }
+
+   .btn-rounded {
+       color: antiquewhite;
+   }
+
+.jumbotron {
+    height: 100%;
+    width:100%;
+    background-size: cover;
+    background-color: #373737;
+    padding: 0px;
+    
+}
+#siz {
+    width:70%;
+    height:20%;
+}
+.panel-footer {
+
+    text-align: center;
+}
